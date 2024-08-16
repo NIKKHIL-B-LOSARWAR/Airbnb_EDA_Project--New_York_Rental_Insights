@@ -63,7 +63,7 @@ To provide clarity on each objective, we utilized data visualization techniques,
 
 <br>
 
-## **Final Outpu (Derived Data Insights) :**
+## **Final Output (Derived Data Insights along with Business Recommendations) :**
 
 
 After conducting the Exploratory Data Analysis (EDA) based on the project's analytical goals, we identified a set of key data insights. These insights are outlined below, along with corresponding business recommendations tailored for Airbnb to achieve their objectives.
