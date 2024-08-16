@@ -34,12 +34,11 @@ The project also examines correlations and seasonal trends, providing a comprehe
 **Note: This project is built in the Google Colab Notebook as an IDE.**
 
 <br>
-<br>
+
 
 ## Business Requirements or Analytical Goals for the Project :
 The project focuses on gaining valuable insights, uncovering patterns and trends, and capturing critical information to help Airbnb gain a deeper understanding of its current business landscape. This includes evaluating the current scale, geographical distribution, concentration of listed rental properties, price analysis, customer feedback, service availability, and more.
 
-<br>
 
 #### **The specific objectives of the project include:**
 
@@ -126,3 +125,30 @@ Staten Island: 1%
 
 
 ### **Screenshots of Visualizations Output:**
+
+
+
+<img width="910" alt="4" src="https://github.com/user-attachments/assets/230fb7be-0ed2-4041-9173-ae277dc915d1">
+
+<br>
+
+<img width="910" alt="12" src="https://github.com/user-attachments/assets/456745db-6a09-426b-9a67-4e8b23b17042">
+
+<br>
+
+<img width="910" alt="11" src="https://github.com/user-attachments/assets/495fe032-84c1-4bd7-a38e-ca942633b04f">
+
+<br>
+
+<img width="910" alt="13" src="https://github.com/user-attachments/assets/ddfe1cde-d42e-4b52-b0ff-7f0caf8dd5f4">
+
+
+<br>
+
+<img width="910" alt="14" src="https://github.com/user-attachments/assets/0cc1dab3-0004-420b-93ff-4b8960433bae">
+<br>
+
+and Many More...
+<br>
+
+## Thank You
