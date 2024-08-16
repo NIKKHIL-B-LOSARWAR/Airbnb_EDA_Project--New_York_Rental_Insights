@@ -63,7 +63,7 @@ To provide clarity on each objective, we utilized data visualization techniques,
 
 <br>
 
-## Final Output
+## Final Outpu (Derived Data Insights) :
 
 
 After conducting the Exploratory Data Analysis (EDA) based on the project's analytical goals, we identified a set of key data insights. These insights are outlined below, along with corresponding business recommendations tailored for Airbnb to achieve their objectives.
@@ -76,40 +76,41 @@ Brooklyn: 41%
 Queens: 12%
 Bronx: 2%
 Staten Island: 1%
+
 Recommendation: There is significant scaling in Manhattan and Brooklyn, offering a good opportunity to optimize revenue, profit, and customer engagement. Strategies like price adjustments, premium service segments, and targeted marketing campaigns are recommended.
 
 
-2. Low Property Density in Queens and Staten Island: Queens and Staten Island show the lowest density of listed properties on Airbnb.
+3. Low Property Density in Queens and Staten Island: Queens and Staten Island show the lowest density of listed properties on Airbnb.
 Recommendation: These regions offer the potential for scaling, but it is advisable to first conduct a thorough market analysis, including cultural trends, customer preferences, and supply-demand studies.
 
 
-3. High Rental Rates in Manhattan and Brooklyn: Manhattan and Brooklyn have the highest rental rates in New York City, indicating a strong Product-Market Fit (PMF) and higher customer engagement.
+4. High Rental Rates in Manhattan and Brooklyn: Manhattan and Brooklyn have the highest rental rates in New York City, indicating a strong Product-Market Fit (PMF) and higher customer engagement.
 Recommendation: Focusing on these regions for revenue and profit optimization is recommended.
 
 
-4. Low Availability of Shared Room Rentals: Shared room types of rental properties are the least common.
+5. Low Availability of Shared Room Rentals: Shared room types of rental properties are the least common.
 Recommendation: It's important to assess whether there's untapped potential in this category or if it is genuinely less preferred. If there is potential, consider expanding this segment. If the category is less popular but shows promise, focus on category creation.
 
 
-5. Seasonal Spike in Customer Engagement (May, June, July): Customer engagement spikes in May, June, and July.
+6. Seasonal Spike in Customer Engagement (May, June, July): Customer engagement spikes in May, June, and July.
 Recommendation: To capitalize on this demand, it's recommended to enhance service quality and implement strategic marketing initiatives.
 
 
-6. Significant Increase in Reviews in 2019: There was a significant spike of around 300% in customer reviews submitted in 2019. This may indicate increased customer dissatisfaction or other issues.
+7. Significant Increase in Reviews in 2019: There was a significant spike of around 300% in customer reviews submitted in 2019. This may indicate increased customer dissatisfaction or other issues.
 Recommendation: A thorough analysis of customer reviews is recommended to address potential concerns.
 
 
-7. Limited Availability of Rental Properties: Approximately 46% of listed rental properties are available for less than 30 days annually, which could limit revenue potential.
+8. Limited Availability of Rental Properties: Approximately 46% of listed rental properties are available for less than 30 days annually, which could limit revenue potential.
 Recommendation: A detailed analysis of these properties is recommended to identify inefficiencies. Consider replacing them with properties that have higher availability rates.
 
 
-8. Top 25 Areas with the Highest Property Listings: The top 25 areas across different regions of New York have the highest property listings.
+9. Top 25 Areas with the Highest Property Listings: The top 25 areas across different regions of New York have the highest property listings.
 Recommendation: There is potential to dominate the rental market in these areas. Focus on optimizing service quality and implementing strategic moves to increase customer footfall.
 
 
-9. Low Listings in Key Manhattan & Brooklyn Areas: Despite having high customer engagement and rental rates, some areas in Manhattan and Brooklyn have fewer listings.
+10. Low Listings in Key Manhattan & Brooklyn Areas: Despite having high customer engagement and rental rates, some areas in Manhattan and Brooklyn have fewer listings.
 Recommendation: These areas are ideal for scaling, and it is recommended to target them for growth and market expansion.
 
 
-10. Correlation Between Availability and Reviews: There is a strong correlation between annual availability and the number of reviews. Lower availability may contribute to customer dissatisfaction.
+11. Correlation Between Availability and Reviews: There is a strong correlation between annual availability and the number of reviews. Lower availability may contribute to customer dissatisfaction.
 Recommendation: It is recommended to conduct a detailed analysis and implement operational improvements to address these concerns.
