@@ -1,8 +1,8 @@
-# Airbnb EDA Project : New York Rental Insights
+# **Airbnb EDA Project : New York Rental Insights**
 
 
 
-## Project Summary 
+## **Project Summary** 
 
 "Airbnb EDA Project : New York Rental Insights" is an Exploratory Data Analysis (EDA) project focused on analyzing Airbnb listings in New York City using Python, with tools like Pandas, Numpy, Matplotlib, and Seaborn. The goal is to uncover valuable insights into the city's rental market.
 
@@ -13,7 +13,7 @@ With the data ready, the analysis focuses on key aspects such as pricing, neighb
 The project also examines correlations and seasonal trends, providing a comprehensive overview of the Airbnb landscape in NYC. The insights drawn from this analysis empower stakeholders to make informed, data-driven decisions regarding investments, pricing, and market strategy.
 
 
-### Key Steps involved in EDA :
+### **Key Steps involved in EDA :**
 
 1. Importing Raw data.
 2. Data Exploration
@@ -22,7 +22,7 @@ The project also examines correlations and seasonal trends, providing a comprehe
 5. Data Visualization
 6. Deriving key data insights.
 
-### Tools & Technologies Used :
+### **Tools & Technologies Used :**
 
 * Python Language
 * Pandas & Numpy Library
@@ -31,7 +31,7 @@ The project also examines correlations and seasonal trends, providing a comprehe
 * Folium Library
 * ChatGPT (as an Virtual Assistant)
 
-Note: This project is built in the Google Colab Notebook as an IDE.
+**Note: This project is built in the Google Colab Notebook as an IDE.**
 
 <br>
 <br>
@@ -41,7 +41,7 @@ The project focuses on gaining valuable insights, uncovering patterns and trends
 
 <br>
 
-#### The specific objectives of the project include:
+#### **The specific objectives of the project include:**
 
 1. Analyzing the geographical distribution of listed properties in New York City.
 2. Determining the percentage composition of listed properties across the four regions.
@@ -63,12 +63,12 @@ To provide clarity on each objective, we utilized data visualization techniques,
 
 <br>
 
-## Final Outpu (Derived Data Insights) :
+## **Final Outpu (Derived Data Insights) :**
 
 
 After conducting the Exploratory Data Analysis (EDA) based on the project's analytical goals, we identified a set of key data insights. These insights are outlined below, along with corresponding business recommendations tailored for Airbnb to achieve their objectives.
 
-Insights :
+**Insights :**
 
 1. Property Distribution Across Regions:
 Manhattan: 44%
@@ -77,40 +77,52 @@ Queens: 12%
 Bronx: 2%
 Staten Island: 1%
 
-Recommendation: There is significant scaling in Manhattan and Brooklyn, offering a good opportunity to optimize revenue, profit, and customer engagement. Strategies like price adjustments, premium service segments, and targeted marketing campaigns are recommended.
+  **Recommendation:** There is significant scaling in Manhattan and Brooklyn, offering a good opportunity to optimize revenue, profit, and customer engagement. Strategies like price adjustments, premium service segments, and targeted marketing campaigns are recommended.
 
 
 3. Low Property Density in Queens and Staten Island: Queens and Staten Island show the lowest density of listed properties on Airbnb.
-Recommendation: These regions offer the potential for scaling, but it is advisable to first conduct a thorough market analysis, including cultural trends, customer preferences, and supply-demand studies.
+
+  **Recommendation:** These regions offer the potential for scaling, but it is advisable to first conduct a thorough market analysis, including cultural trends, customer preferences, and supply-demand studies.
 
 
 4. High Rental Rates in Manhattan and Brooklyn: Manhattan and Brooklyn have the highest rental rates in New York City, indicating a strong Product-Market Fit (PMF) and higher customer engagement.
-Recommendation: Focusing on these regions for revenue and profit optimization is recommended.
+
+  **Recommendation:** Focusing on these regions for revenue and profit optimization is recommended.
 
 
 5. Low Availability of Shared Room Rentals: Shared room types of rental properties are the least common.
-Recommendation: It's important to assess whether there's untapped potential in this category or if it is genuinely less preferred. If there is potential, consider expanding this segment. If the category is less popular but shows promise, focus on category creation.
+
+  **Recommendation:** It's important to assess whether there's untapped potential in this category or if it is genuinely less preferred. If there is potential, consider expanding this segment. If the category is less popular but shows promise, focus on category creation.
 
 
 6. Seasonal Spike in Customer Engagement (May, June, July): Customer engagement spikes in May, June, and July.
-Recommendation: To capitalize on this demand, it's recommended to enhance service quality and implement strategic marketing initiatives.
+
+  **Recommendation:** To capitalize on this demand, it's recommended to enhance service quality and implement strategic marketing initiatives.
 
 
 7. Significant Increase in Reviews in 2019: There was a significant spike of around 300% in customer reviews submitted in 2019. This may indicate increased customer dissatisfaction or other issues.
-Recommendation: A thorough analysis of customer reviews is recommended to address potential concerns.
+
+**Recommendation:** A thorough analysis of customer reviews is recommended to address potential concerns.
 
 
 8. Limited Availability of Rental Properties: Approximately 46% of listed rental properties are available for less than 30 days annually, which could limit revenue potential.
-Recommendation: A detailed analysis of these properties is recommended to identify inefficiencies. Consider replacing them with properties that have higher availability rates.
+
+  **Recommendation:** A detailed analysis of these properties is recommended to identify inefficiencies. Consider replacing them with properties that have higher availability rates.
 
 
 9. Top 25 Areas with the Highest Property Listings: The top 25 areas across different regions of New York have the highest property listings.
-Recommendation: There is potential to dominate the rental market in these areas. Focus on optimizing service quality and implementing strategic moves to increase customer footfall.
+
+  **Recommendation:** There is potential to dominate the rental market in these areas. Focus on optimizing service quality and implementing strategic moves to increase customer footfall.
 
 
 10. Low Listings in Key Manhattan & Brooklyn Areas: Despite having high customer engagement and rental rates, some areas in Manhattan and Brooklyn have fewer listings.
-Recommendation: These areas are ideal for scaling, and it is recommended to target them for growth and market expansion.
+
+  **Recommendation:** These areas are ideal for scaling, and it is recommended to target them for growth and market expansion.
 
 
 11. Correlation Between Availability and Reviews: There is a strong correlation between annual availability and the number of reviews. Lower availability may contribute to customer dissatisfaction.
-Recommendation: It is recommended to conduct a detailed analysis and implement operational improvements to address these concerns.
+
+  **Recommendation:** It is recommended to conduct a detailed analysis and implement operational improvements to address these concerns.
+
+
+### **Screenshots of Visualizations Output:**
