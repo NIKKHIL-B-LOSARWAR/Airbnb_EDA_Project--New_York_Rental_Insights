@@ -1,6 +1,8 @@
 # **Airbnb EDA Project : New York Rental Insights**
 
 
+<img width="910" alt="@ Final BG" src="https://github.com/user-attachments/assets/1da6f98b-ca86-4aa0-92a2-da6cf88dc0a0">
+
 
 ## **Project Summary** 
 
