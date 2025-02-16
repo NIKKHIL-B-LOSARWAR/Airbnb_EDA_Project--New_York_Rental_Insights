@@ -17,7 +17,6 @@ The project also examines correlations and seasonal trends, providing a comprehe
 
 **Project Link** -[ Colab Notebook ](https://colab.research.google.com/drive/1qE5_xglHd3wdHYX_1u0Hu4lF6Tgjm3Vt)
 
-**Dataset of Airbnb New York listings** - [ Drive Link ](https://drive.google.com/file/d/1VeYoewWzYlnnGGP_qdo_Do-y8A4kzW2G/view?usp=sharing)
 
 
 ### **Key Steps involved in EDA :**
